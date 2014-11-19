@@ -1,0 +1,446 @@
+----------start refresh /Users/george/project/myshell----------
+-----stash branch  in case uncommit change-----
+No local changes to save
+=====bitbucket/master=====
+not =
+=====bitbucket/test1=====
+not =
+=====bitbucket/test2=====
+not =
+=====origin/master=====
+-----start checkout branch master-----
+Your branch is up-to-date with 'origin/master'.
+Already up-to-date.
+=====origin/test1=====
+-----start checkout branch test1-----
+Already up-to-date.
+=====origin/test2=====
+-----start checkout branch test2-----
+Already up-to-date.
+----------start refresh /Users/george/project/myblog----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/stuff/client-win----------
+!!!!!!!!!!error!!!!!!!!!: /Users/george/stuff/client-win is not a dir
+----------start refresh /Users/george/project/yunku----------
+-----stash branch  in case uncommit change-----
+Saved working directory and index state WIP on master: 12ef641 widget测试
+HEAD is now at 12ef641 widget测试
+=====bitbucket/master=====
+not =
+=====origin/HEAD=====
+=====->=====
+not =
+=====origin/master=====
+-----start checkout branch master-----
+Your branch is up-to-date with 'origin/master'.
+Already up-to-date.
+=====origin/ent_group=====
+-----start checkout branch ent_group-----
+Already up-to-date.
+=====origin/invite_accept=====
+-----start checkout branch invite_accept-----
+Auto-merging app/Lib/Core/CoreOrg.class.php
+Merge made by the 'recursive' strategy.
+ app/Lib/Action/ManageAction.class.php      | 121 ++---------------
+ app/Lib/Common/GKUpdates.class.php         |   2 +
+ app/Lib/Core/CoreOrg.class.php             | 202 +++++++++++++++++++++++++----
+ app/Lib/Model/MemberSettingModel.class.php |   1 +
+ app/Tpl/default/Manage/invite_list.html    |  14 ++
+ app/Tpl/default/Manage/member_main.html    |  15 +--
+ app/Tpl/default/Org/template.html          |  13 --
+ web/Static/js/lib/member.js                |   8 +-
+ 8 files changed, 210 insertions(+), 166 deletions(-)
+ create mode 100755 app/Tpl/default/Manage/invite_list.html
+=====origin/master=====
+-----start checkout branch master-----
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+Already up-to-date.
+=====origin/mingdao=====
+-----start checkout branch mingdao-----
+Your branch and 'origin/mingdao' have diverged,
+and have 176 and 1 different commit each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Auto-merging app/Lib/Core/CoreAccount.class.php
+Auto-merging app/Lib/Common/GKException.class.php
+Auto-merging app/Lib/Action/AccountAction.class.php
+Merge made by the 'recursive' strategy.
+ app/Lib/Action/AccountAction.class.php           | 73 ++++++++++++++++--------
+ app/Lib/Common/GKException.class.php             |  3 +
+ app/Lib/Core/CoreAccount.class.php               | 14 +++++
+ app/Tpl/default/Account/oauth_login_account.html |  5 +-
+ 4 files changed, 69 insertions(+), 26 deletions(-)
+=====origin/newfileversion=====
+-----start checkout branch newfileversion-----
+Already up-to-date.
+=====origin/open_file_verify=====
+-----start checkout branch open_file_verify-----
+Already up-to-date.
+=====origin/org_api=====
+-----start checkout branch org_api-----
+Already up-to-date.
+=====origin/otsTOes=====
+-----start checkout branch otsTOes-----
+Merge made by the 'recursive' strategy.
+ app/Lib/Storage/version/EsVersion.class.php | 174 ++++++++++++++++++++++++++++
+ 1 file changed, 174 insertions(+)
+ create mode 100644 app/Lib/Storage/version/EsVersion.class.php
+=====origin/suite=====
+-----start checkout branch suite-----
+Auto-merging web/Static/js/ent.js
+Auto-merging web/Static/js/ajax.js
+Auto-merging app/Tpl/default/Ent/regist.html
+CONFLICT (content): Merge conflict in app/Tpl/default/Ent/regist.html
+Auto-merging app/Lib/Core/CoreServer.class.php
+CONFLICT (content): Merge conflict in app/Lib/Core/CoreServer.class.php
+Auto-merging app/Lib/Action/EntAction.class.php
+Automatic merge failed; fix conflicts and then commit the result.
+!!!!!!!!!!error!!!!!!!!!: pull branch origin/suite failed
+----------start refresh /Users/george/project/yunku----------
+-----stash branch  in case uncommit change-----
+No local changes to save
+=====bitbucket/ent_group=====
+not =
+=====bitbucket/invite_accept=====
+not =
+=====bitbucket/master=====
+not =
+=====bitbucket/mingdao=====
+not =
+=====bitbucket/newfileversion=====
+not =
+=====bitbucket/open_file_verify=====
+not =
+=====bitbucket/org_api=====
+not =
+=====bitbucket/otsTOes=====
+not =
+=====origin/HEAD=====
+=====->=====
+not =
+=====origin/master=====
+-----start checkout branch master-----
+M	app/Tpl/fengcloud
+Your branch and 'origin/master' have diverged,
+and have 4 and 70 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+Auto-merging app/Tpl/fengcloud
+CONFLICT (submodule): Merge conflict in app/Tpl/fengcloud
+Automatic merge failed; fix conflicts and then commit the result.
+!!!!!!!!!!error!!!!!!!!!: pull branch origin/master failed
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
+----------start refresh /Users/george/project/yunku----------
+!!!!!!!!!!error!!!!!!!!!: remote bitbucket not find
